@@ -43,4 +43,6 @@ pyhton blum.py
 - Auto Checkin Daily
 - Multi Account
 
+## Screenshot
+![image](https://github.com/user-attachments/assets/e91f845b-8b3d-4882-a9d3-d8fda0efa0fa)
 
